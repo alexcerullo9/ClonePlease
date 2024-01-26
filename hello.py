@@ -1,5 +1,5 @@
 def hello_world():
-	dummy = 'Hello World'
+	dummy = 'Hello World!'
 	return dummy 
 def hello_world_n(N):
 	return " ".join(["Hello World!" for _ in range(N)])
